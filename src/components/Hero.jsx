@@ -23,7 +23,7 @@ export function Hero() {
       <div className="max-w-6xl mx-auto relative grid md:grid-cols-2 gap-12 md:gap-8 items-center">
         <div>
           <p className="uppercase text-xs sm:text-sm mb-5 font-body" style={{ color: COLORS.wood, letterSpacing: "0.25em" }}>
-            Malarstwo nieprofesjonalne · Zielona Góra
+            Autorskie malarstwo Heleny Lebieckiej · Zielona Góra
           </p>
           <h1
             className="leading-[1.05] mb-6 font-display"
